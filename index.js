@@ -8,3 +8,4 @@ console.log("Baris ketiga");
 //Rabu
 console.log("Baris keempat");
 console.log("Baris kelima");
+console.log("Test conflict");
